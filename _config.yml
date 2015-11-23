@@ -1,0 +1,28 @@
+name: Bruce Eicher Magic
+favicon: null
+layout_spectrum: 0.47047085082158446
+typography_spectrum: 0.9318600604310632
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5961980489082634
+  lightness: 0.7562928595580161
+  saturation: 0.48406294523738325
+  rhythmicContrast: 0.11406500218436122
+purpose: []
