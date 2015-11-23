@@ -1,28 +1,40 @@
-name: Bruce Eicher Magic
-favicon: null
-layout_spectrum: 0.47047085082158446
-typography_spectrum: 0.9318600604310632
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.4704708508215845
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.5961980489082634
-  lightness: 0.7562928595580161
-  saturation: 0.48406294523738325
-  rhythmicContrast: 0.11406500218436122
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4840629452373832
+  lightness: 0.7562928595580161
+  brandStrength: 0.460371
+  brandColors:
+    - '#FFFFFF'
+    - '#0F0F0F'
+    - '#62BD48'
+    - '#667FD8'
+    - '#C67742'
+  rhythmicContrast: 0.1140650021843612
+typography_spectrum: 0.9318600604310632
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Bruce Eicher Magic
